@@ -3,6 +3,9 @@
 # pylint: disable=missing-class-docstring
 # pylint: disable=invalid-name
 # pylint: disable=global-statement
+# pylint: disable=use-dict-literal
+# pylint: disable=consider-using-f-string
+# pylint: disable=global-variable-not-assigned
 import sys
 import argparse
 import traceback
