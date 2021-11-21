@@ -1,6 +1,6 @@
 # pdfls
 
-[![Build Status](https://travis-ci.com/metebalci/pdfls.svg?branch=main)](https://travis-ci.com/metebalci/pdfls)
+[![CircleCI](https://circleci.com/gh/metebalci/pdfls/tree/main.svg?style=svg)](https://circleci.com/gh/metebalci/pdfls/tree/main)
 
 pdfls is a small utility to debug a PDF file.
 
