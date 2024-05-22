@@ -13,3 +13,5 @@ upload:
 	python setup.py sdist
 	twine upload dist/*
 
+# used by circleci
+ci-test:
