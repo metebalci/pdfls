@@ -2,8 +2,6 @@
 
 # pdfls
 
-[![CircleCI](https://circleci.com/gh/metebalci/pdfls/tree/main.svg?style=svg)](https://circleci.com/gh/metebalci/pdfls/tree/main)
-
 pdfls is a PDF utility (a PDF processor) to investigate PDF files. 
 
 pdfls has its own ISO 32000-2:2000 PDF-2.0 compliant parser. It uses ccitt and lzw filter implementations of pdfminer.six project. 
