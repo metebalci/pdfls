@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2024 Mete Balci
 #
-# SPDX-License-Identifier: GPL-3.0+
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 from setuptools import setup, find_packages
 from codecs import open

@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2024 Mete Balci
 #
-# SPDX-License-Identifier: GPL-3.0+
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 class Token:
     def __init__(self):
