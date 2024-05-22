@@ -1,9 +1,15 @@
 
-test: pdfls.py
-	pylint pdfls.py
-	pdfls -p knuth65.pdf
+unit-test: 
+	python -m unittest
 
-upload: pdfls.py setup.py
+type-check:
+	mypy pdfls
+
+static-check:
+	pylint pdfls
+
+upload:
 	rm -rf dist
 	python setup.py sdist
 	twine upload dist/*
+
