@@ -1,4 +1,4 @@
-***This is an ongoing work, not ready for use yet.***
+***This project is moved to [pdfsh](https://github.com/metebalci/pdfsh).***
 
 # pdfls
 
